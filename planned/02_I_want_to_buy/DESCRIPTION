@@ -1,0 +1,17 @@
+Use-case #1: I want to buy an item.
+
+  Sub-case #1: I want to buy a physical item from someone local to me.
+
+  There is a particular item or set of items that I want to buy from someone near my location.
+
+    Minimal Feature Dependencies:
+      * Trader search/list
+      * Item search/list
+
+    Future Expectations:
+      * Want-to-buy lists
+
+
+  Sub-case #2: I want to buy these virtual items.
+
+  Why?
