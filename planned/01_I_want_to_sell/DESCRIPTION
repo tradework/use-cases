@@ -1,0 +1,20 @@
+Use-case #1: I want to sell these items.
+
+  Sub-case #1: I want to sell these physical items to buyers who are local to me.
+  I have a list of items that I have in my possession (or reasonably quick access to) that I want to sell to people who are willing to come to my location to pick the items up or who are willing to meet me at a location near wherever I am (e.g. so as not to reveal a personal address).
+
+    Minimal Feature Dependencies:
+      * Inventory editor
+      * Signal for being open or closed for trading
+      * Location marker
+      * Trader search/list
+
+    Future Expectations:
+      * Transaction handling
+      * Multiple inventories
+      * Promotions
+
+
+  Sub-case #2: I want to sell these virtual items.
+
+  This is just a simpler version of #1.
