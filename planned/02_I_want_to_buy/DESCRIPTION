@@ -10,6 +10,8 @@ Use-case #1: I want to buy an item.
 
     Future Expectations:
       * Want-to-buy lists
+      * Reserve item
+      * Contact seller (if allowed by seller)
 
 
   Sub-case #2: I want to buy these virtual items.
